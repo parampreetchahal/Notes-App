@@ -89,13 +89,6 @@ npm run dev
 * Drag and drop notes
 * Authentication system
 
----
-
-# 💡 Resume Description
-
-Developed a responsive Notes Management Application using React and Tailwind CSS featuring dynamic CRUD operations, modern glassmorphism UI, real-time validation, responsive layouts, and interactive user experience.
-
----
 
 # 👨‍💻 Author
 
